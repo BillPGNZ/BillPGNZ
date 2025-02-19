@@ -1,9 +1,7 @@
 - 👋 Hi, I’m @BillPGNZ
-- 👀 I’m interested in nice cars
+- 👀 I’m interested in becoming rich $$$$$$$$
 - 🌱 I’m currently learning Go, js, py
 - 💞️ I’m looking to collaborate on anything
-- 📫 How to reach me , do you know me irl?
-- 😄 Pronouns: he / him 
 - ⚡ Fun fact: Epstein didn't unalive himself.
 
 <!---
